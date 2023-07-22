@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: #011F3F;
+    height: 100vh;
+    
+}
+h1{
+    color:antiquewhite;
+    font-family: 'VT323', monospace;
+    font-size: 60px;
+}
+button{
+    width: 200px;
+    height: 200px;
+    border: 15px solid black;
+    margin: 10px;
+    border-radius: 15%;
+}
+.one{
+    background-color: green;
+}
+.two{
+    background-color: red;
+}
+.three{
+    background-color: yellow;
+}
+.four{
+    background-color: blue;
+}
+.clk{
+    opacity: 0.5;
+    box-shadow: 0px 0px 5px 5px beige;
+}
+.wrg{
+    background-color: red;
+}
